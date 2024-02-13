@@ -1,9 +1,8 @@
 ### Hi there 👋
+I'm Rivaldo , thank you for stopping by and having a look at my GitHub account! Im a Full-Stack Developer who loves to create captivating frontend Designs. Orignally from Mumbai. im currently persuiting my Masters in New Jersey. Have a look at my {portfolio} to see more :D.
 
-
-**rivdsilva8/rivdsilva8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<script type="module" src="https://unpkg.com/@splinetool/viewer@1.0.52/build/spline-viewer.js"></script>
+<spline-viewer url="https://prod.spline.design/MTQq8YLY-yjXBgXt/scene.splinecode"></spline-viewer>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
