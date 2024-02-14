@@ -6,7 +6,7 @@ I'm Rivaldo, thank you for stopping by and having a look at my GitHub account! I
 - 🔭 I’m currently working on Full-Stack Projects and getting well versed with React and Angular.
   
 - 💬 My Projects:
-  * One of my favorite projects was the [RivTube](https://github.com/rivdsilva8/YouTube-Clone) Web App as it was my first look into the world of React, and it was fun watching YouTube with no ads.
+  * One of my favorite projects was the [RivTube](https://github.com/rivdsilva8/YouTube-Clone) Web App It may not be the most impressive but it was my first look into the world of React, and it was fun watching YouTube with no ads (n_n).
   * Another one that I have a lot of memories of was [Hotel_Management_App](https://github.com/rivdsilva8/Hotel_Management_System) in which I worked with a couple of my classmates and made a robust hotel management app for college.
   * I've also been 3D modeling for about 8 years now, you can have a look at my Instagram page here: [lil_3d_land](https://www.instagram.com/lil_3d_land/?hl=en)
     
