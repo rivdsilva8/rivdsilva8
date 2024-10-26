@@ -12,8 +12,7 @@ I'm Rivaldo, thank you for stopping by and having a look at my GitHub account! I
     
 - 📫 How to reach me: You can reach me on [Instagram](https://www.instagram.com/riv_the_boi?ig_shid=azF1N2ZidWN0OTFt) and [LinkedIn](https://www.linkedin.com/in/rivaldo-d-silva-081706184/) or send me an email at [rivaldodsilva8@gmail.com](mailto:rivaldodsilva8@gmail.com)
   
-- ⚡ Fun facts (hope you find them fun lol):
-  * I'm a HUGE MotoGP fan 🏍, although I have no driver's license. 🤕 (MM-93 FTW 🐜)
+- ⚡ Fun facts:
+  * I'm a HUGE MotoGP fan 🏍, although I dont have a bike license.
   * Recently started Boxing and watching MMA 🥊
-  * BCS 🧑‍⚖ was better than BB 🧪🧊, don't 🗣 me 
-
+ 
