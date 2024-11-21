@@ -11,8 +11,5 @@ I'm Rivaldo, thank you for stopping by and having a look at my GitHub account! I
   * I've also been 3D modeling for about 8 years now, you can have a look at my Instagram page here: [lil_3d_land](https://www.instagram.com/lil_3d_land/?hl=en)
     
 - 📫 How to reach me: You can reach me on [Instagram](https://www.instagram.com/riv_the_boi?ig_shid=azF1N2ZidWN0OTFt) and [LinkedIn](https://www.linkedin.com/in/rivaldo-d-silva-081706184/) or send me an email at [rivaldodsilva8@gmail.com](mailto:rivaldodsilva8@gmail.com)
-  
-- ⚡ Fun facts:
-  * I'm a HUGE MotoGP fan 🏍, although I dont have a bike license.
-  * Recently started Boxing and watching MMA 🥊
+
  
