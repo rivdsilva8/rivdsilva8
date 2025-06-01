@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Rivaldo, thank you for stopping by and having a look at my GitHub account! I'm a Full-Stack/VR Developer who loves to create captivating Front-End designs. Originally from Mumbai, I'm currently pursuing my Masters at Stevens Institute of Technology, New Jersey. Have a look at my [portfolio](http://104.237.156.10:5173/) to see more :D.
+I'm Rivaldo, thank you for stopping by and having a look at my GitHub account! I'm a Full-Stack Developer
 
 ![xK](https://github.com/rivdsilva8/rivdsilva8/assets/125459807/d16f0166-ab05-4b62-883e-f7e8cb9f4e06)
 
